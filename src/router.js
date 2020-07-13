@@ -11,5 +11,16 @@ export default new Router({
       name: 'home',
       component: Home,
     },
+    // create paths to correct pages and associate components appropriately
+    // {
+    //   path: '/viewcompanies',
+    //   name: 'viewcompanies',
+    //   component: ViewCompanies,
+    // },
+    // {
+    //   path: '/viewcompany',
+    //   name: 'viewcompany',
+    //   component: ViewCompanies,
+    // },
   ],
 });
